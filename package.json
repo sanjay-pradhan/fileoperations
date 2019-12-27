@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "diffrent file operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjay-pradhan/fileoperations.git"
+  },
+  "author": "Sanjay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjay-pradhan/fileoperations/issues"
+  },
+  "homepage": "https://github.com/sanjay-pradhan/fileoperations#readme"
+}
