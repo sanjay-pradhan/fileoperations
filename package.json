@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/sanjay-pradhan/fileoperations#readme",
   "dependencies": {
-    "http": "0.0.0"
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "http": "0.0.0",
+    "multer": "^1.4.2"
   },
   "devDependencies": {
     "@types/node": "^13.1.1",
